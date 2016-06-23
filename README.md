@@ -1,0 +1,3 @@
+# Carousel
+
+This is my response to the business requirements in the TIM candidate apititude test. This is a simple web page using html, css and JavaScript. I used jQuery because it is a widely used library so it ake some minor changes in the css and the javshould be easy to maintain. I also chose it after getting bogged down trying to use Angular and Bootstrap. I may try again in the future but right now jQuery amd the jCarousel plug-in work fine. The jCarousel did the heavy lifting. I had to make some minor changes to the css and JavaScript files for the jCarousel but I now have a working  barebones example. 
